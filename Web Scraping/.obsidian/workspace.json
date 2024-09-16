@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "4b81a9bf82d5ecac",
+    "type": "split",
+    "children": [
+      {
+        "id": "6cf5f62d3fceb77d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b395bb55476886e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web Scraping/points.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "943c21c9969eedb0",
+    "type": "split",
+    "children": [
+      {
+        "id": "68ba777c366cf1ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a881c52e18270ca6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d5022ae160a98524",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c1f3088d8787cef1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "3bdd821e51c3a253",
+    "type": "split",
+    "children": [
+      {
+        "id": "59f377e655e0702b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b58f9f435e17db8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Web Scraping/points.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "37901ed44a820a11",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Web Scraping/points.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5279ccd1967e3a2c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "de39933afe21094e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Web Scraping/points.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b395bb55476886e5",
+  "lastOpenFiles": [
+    "Web Scraping/chardet.md",
+    "Web Scraping/points.md",
+    "Web Scraping/Headers.md",
+    "nltk/find most common.md",
+    "Web Scraping",
+    "nltk/tokenize.md",
+    "tokenize.md",
+    "Untitled.md",
+    "nltk",
+    "Welcome.md"
+  ]
+}

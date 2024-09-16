@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "916231fd58795746",
+    "type": "split",
+    "children": [
+      {
+        "id": "d46c4724d460ffa2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59e465dd85dda93a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "67de96d87e83f0f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "48f124801f7bea8a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fdef6bada625bfca",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3145e4fe49f8fc4f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "25bb50ce1bde045e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "5bc267fd5993cd33",
+    "type": "split",
+    "children": [
+      {
+        "id": "84d660ecf5b21f07",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b70dc229c3815ba",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2d36c5365d1eb768",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fba80e73ab042a92",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "032948a220da94da",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "graph:Open graph view": false
+    }
+  },
+  "active": "3145e4fe49f8fc4f",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Untitled 1.md",
+    "start vue.md",
+    "router.md",
+    "Untitled",
+    "Untitled.canvas",
+    "continue.md",
+    "tailwind setup.md",
+    "App.md",
+    "Welcome.md",
+    "create a link.md"
+  ]
+}
